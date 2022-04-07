@@ -1,4 +1,4 @@
-# LeibnizFormulaRust
+# Leibniz Formula Rust
 
 Simple pi calculation using _Liebniz formula_
 <br/>
